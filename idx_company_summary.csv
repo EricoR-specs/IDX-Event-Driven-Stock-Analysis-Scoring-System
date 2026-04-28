@@ -1,0 +1,8 @@
+﻿kode,total_score,jumlah_berita,rata_rata_score,max_score,nilai_transaksi_rata2,nilai_transaksi_maks,judul_list,kategori_list,tanggal_terbaru
+SAME,8,4,2.0,2,,,"['Penyampaian Bukti Iklan Informasi Penambahan Modal tanpa HMETD [SAME ]', 'Penyampaian Bukti Iklan Keterbukaan Informasi Rencana PMTHMETD dalam rangka Pelaksanaan Program Kepemilikan Saham Manajemen dan Karyawan (Program MESOP) [SAME ]', 'Keterbukaan Informasi Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) [SAME ]', 'Keterbukaan Informasi Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) Melalui Program Kepemilikan Saham Manajemen dan Karyawan (Program MESOP) [SAME ]']","['Right Issue', 'Right Issue', 'Right Issue', 'Right Issue']",2026-04-27 21:22:37
+CDIA,6,2,3.0,3,,,"['Penyampaian Bukti Iklan KETERBUKAAN INFORMASI PT CHANDRA DAYA INVESTASI Tbk SEHUBUNGAN DENGAN TRANSAKSI AFILIASI [CDIA ]', 'KETERBUKAAN INFORMASI PT CHANDRA DAYA INVESTASI Tbk SEHUBUNGAN DENGAN TRANSAKSI AFILIASI [CDIA ]']","['Afiliasi, Keyword Abu-Abu', 'Afiliasi, Keyword Abu-Abu']",2026-04-27 20:49:47
+EPAC,3,1,3.0,3,,,['Negosiasi rencana pengambilalihan Perseroan [EPAC ]'],['Pengambilalihan'],2026-04-27 17:51:30
+DGNS,2,1,2.0,2,,,['Penambahan modal tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD [DGNS ]'],['Right Issue'],2026-04-27 21:37:12
+LINK,2,1,2.0,2,,,['Penyampaian Informasi rencana Transaksi material - Rencana Transaksi Perubahan Kegiatan Usaha [LINK ]'],['Transaksi Material'],2026-04-27 19:25:55
+BAUT,1,1,1.0,1,,,['Transaksi Afiliasi [BAUT ]'],['Afiliasi'],2026-04-27 19:44:05
+BUVA,1,1,1.0,1,,,['Transaksi Afiliasi [BUVA ]'],['Afiliasi'],2026-04-27 19:34:37

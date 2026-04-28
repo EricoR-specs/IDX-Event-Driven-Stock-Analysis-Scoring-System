@@ -1,0 +1,47 @@
+Tanggal analisis: 27 Apr 2026
+
+Hasil screening saham berbasis aksi korporasi (IDX) + berita.
+
+Fokus pada sinyal yang berpotensi menggerakkan harga.
+
+
+DATA EMITEN:
+
+1. LINK | IDX:2 News:8.0 Total:10.0
+   Sinyal: Penyampaian Informasi rencana Transaksi material - Rencana Transaksi Perubahan Kegiatan Usaha [LINK ]; Link dan Alur Rekrutmen Manajer Koperasi Desa Merah Putih, Catat Jadwalnya; Amazon Segera Sepakati Akuisisi Operator Satelit Globalstar, Siap Saingi Starlink Milik SpaceX; Gencar Ekspansi Jaringan, Link Net (LINK) Capai 5 Juta Home Pass
+
+2. CDIA | IDX:6 News:3.0 Total:9.0
+   Sinyal: Penyampaian Bukti Iklan KETERBUKAAN INFORMASI PT CHANDRA DAYA INVESTASI Tbk SEHUBUNGAN DENGAN TRANSAKSI AFILIASI [CDIA ]; KETERBUKAAN INFORMASI PT CHANDRA DAYA INVESTASI Tbk SEHUBUNGAN DENGAN TRANSAKSI AFILIASI [CDIA ]; Saham Prajogo PTRO-CDIA Cs Melonjak Lagi, Reli 7 Hari Beruntun; CDIA Resmikan Kapal Kimia Cair Boreas, Siap Berlayar Juni 2026
+
+3. SAME | IDX:8 News:0.0 Total:8.0
+   Sinyal: Penyampaian Bukti Iklan Informasi Penambahan Modal tanpa HMETD [SAME ]; Penyampaian Bukti Iklan Keterbukaan Informasi Rencana PMTHMETD dalam rangka Pelaksanaan Program Kepemilikan Saham Manajemen dan Karyawan (Program MESOP) [SAME ]; Keterbukaan Informasi Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) [SAME ]; Keterbukaan Informasi Penambahan Modal Tanpa Hak Memesan Efek Terlebih Dahulu (PMTHMETD) Melalui Program Kepemilikan Saham Manajemen dan Karyawan (Program MESOP) [SAME ]
+
+4. EPAC | IDX:3 News:3.0 Total:6.0
+   Sinyal: Negosiasi rencana pengambilalihan Perseroan [EPAC ]; Penutupan Selat Hormuz Kerek Harga Bahan Baku, Emiten Kemasan (EPAC) Sesuaikan Harga Jual; Megalestari Epack Sentosaraya (EPAC) Optimistis Menjalani Bisnis di 2025; Arahan Kemendag ke Ratusan Repacker Imbas Temuan MinyaKita Tak Sesuai Takaran
+
+5. DGNS | IDX:2 News:2.0 Total:4.0
+   Sinyal: Penambahan modal tanpa HMETD - Rencana Pelaksanaan Penambahan Modal Tanpa HMETD [DGNS ]; Butuh Modal, Diagnos Laboratorium (DGNS) Siapkan Private Placement 125 Juta Saham; Harga Melonjak Tak Wajar, Saham DGNS Disorot BEI; Bergerak Volatile, Saham DGNS-PPRI Diawasi Bursa
+
+6. BAUT | IDX:1 News:0.0 Total:1.0
+   Sinyal: Transaksi Afiliasi [BAUT ]
+
+7. BUVA | IDX:1 News:0.0 Total:1.0
+   Sinyal: Transaksi Afiliasi [BUVA ]; IHSG Hari Ini Berpotensi Menguat, Cermati Saham BUVA, COIN hingga PANI; IHSG Hari Ini Berpotensi Terkoreksi Terbatas, INDF, CDIA, hingga BUVA Bisa Jadi Pilihan; Terseret Kasus Tuduhan Insider Trading, Begini Imbauan Bukit Uluwatu (BUVA)
+
+
+TUGAS:
+
+Identifikasi 3–5 saham paling menarik dari data di atas.
+Untuk masing-masing:
+- Jelaskan inti kejadian
+- Tentukan apakah katalis positif/negatif
+- Estimasi dampak ke harga (kecil/sedang/besar)
+- Tentukan horizon (short/medium/long term)
+- Berdasarkan harga sekarang apakah emiten ini layak diinvestasikan secara value? (undervalued/overvalued/fair)
+- Lakukan pencarian tambahan mengenai sektor emiten ini secara makro ekonomi!(misal harga komoditas sedang naik/turun) dan apa efeknya keperusahaan ini (profit/rugi/netral)?
+
+
+Tambahkan:
+- Validasi fundamental singkat
+- Analisis teknikal ringkas
+- Rekomendasi: Buy / Spec Buy / Hold / Avoid (Urutkan dari Buy now sampai avoid)
